@@ -1,0 +1,8 @@
+const roadmap = [
+	{ topic: 'JavaScript', haveLearned: true, why: 'Just for fun' },
+	{ topic: 'SQL', haveLearned: true, why: 'To learn databases' },
+	{ topic: 'Node', haveLearned: false, why: 'To run JS in the server' },
+	{ topic: 'CSS', haveLearned: true, why: 'To be creative' },
+];
+
+console.log(roadmap);
